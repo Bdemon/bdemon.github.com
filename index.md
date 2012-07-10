@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bdemon
+title: Benjamin
 tagline: Be A Demon.
 ---
 {% include JB/setup %}
