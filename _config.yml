@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Bdemon
-tagline: 
+title : Home
+
 author :
   name : Benjamin Cheng
   email : shengqi27@gmail.com
