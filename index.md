@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Benjamin
-tagline: Be A Demon.
+title: Bdemon
+tagline: Pain is inevitable,suffering is optional.
 ---
 {% include JB/setup %}
 
