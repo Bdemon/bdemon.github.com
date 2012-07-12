@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "you never know that"
+title: "You Never Know That"
 description: ""
 category: life
 tags: [something]
