@@ -3,7 +3,7 @@ layout: post
 title: "Duokan on iOS"
 description: ""
 category: iOS
-tags: []
+tags: [lifestyle]
 ---
 {% include JB/setup %}
 #多看阅读
@@ -17,6 +17,6 @@ tags: []
 * 多看阅读的[评测链接](http://bbs.dgtle.com/thread-31237-1-1.html)(*各位大神请自行前往数字尾巴阅读相关评测文章*)
 
 
-* 在多看阅读上购买了《男女内参》、《番茄工作法图解》两本书
+* 我已经在多看阅读上购买了《男女内参》、《番茄工作法图解》两本书
 
 * 下图是多看阅读的界面![多看阅读界面](http://ww3.sinaimg.cn/large/a42cf771jw1durxnb6mlxj.jpg)
