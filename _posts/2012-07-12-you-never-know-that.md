@@ -2,7 +2,7 @@
 layout: post
 title: "You Never Know That"
 description: ""
-category: life
+category: Life
 tags: [something]
 ---
 {% include JB/setup %}
