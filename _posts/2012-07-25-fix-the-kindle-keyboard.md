@@ -7,8 +7,6 @@ tags: [kindle]
 ---
 {% include JB/setup %}
 
-#Fix the Kindle Keyboard
-
 开头需要提一下，这是一篇拖了大概快2周的文章。
 
 我的Kindle Keyboard自从6月中旬因为进程条卡在大树那里，之后被我自己的误操作格式化了所有的分区。
