@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "the Movie <Zindagi Na Milegi Dobara>"
+title: "Zindagi Na Milegi"
 description: ""
-category: Moive
+category: Movie
 tags: [life]
 ---
 {% include JB/setup %}
-
 #Zindagi Na Milegi Dobara人生不再重来
 
 昨晚偶然的机会在[v2ex](www.v2ex.com)上看到有人推荐这部电影，豆瓣上搜索了一下是部印度电影，当时便在想印度阿三的电影可以相信吗？
